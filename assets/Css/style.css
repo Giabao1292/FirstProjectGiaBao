@@ -715,3 +715,6 @@
   background-image: url("/assets/Images/signature\ \(1\).png");
   background-position: center;
 }
+input, textarea{
+  outline: none;
+}
