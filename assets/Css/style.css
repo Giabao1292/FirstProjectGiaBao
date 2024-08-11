@@ -511,7 +511,7 @@
 .container7 {
   width: 95%;
   height: 500px;
-  background-image: url("/assets/Images/background3.jpg");
+  background-image: url("../Images/background3.jpg");
   background-size: cover;
   background-position: center;
   border-radius: 12px;
@@ -712,7 +712,7 @@
 .Box_signature {
   width: 320px;
   height: 65px;
-  background-image: url("/assets/Images/signature\ \(1\).png");
+  background-image: url("../Images/signature\ \(1\).png");
   background-position: center;
 }
 input, textarea{
